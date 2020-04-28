@@ -1,0 +1,5 @@
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Entity\bin\Debug\Entity.dll
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Entity\bin\Debug\Entity.pdb
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Entity\obj\Debug\Entity.dll
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Entity\obj\Debug\Entity.pdb

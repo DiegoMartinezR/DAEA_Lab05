@@ -1,0 +1,8 @@
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Data\bin\Debug\Data.dll
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Data\bin\Debug\Data.pdb
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Data\bin\Debug\Entity.dll
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Data\bin\Debug\Entity.pdb
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Data\obj\Debug\Data.dll
+C:\Users\DIEGO\Desktop\Semana05\Semana05\Data\obj\Debug\Data.pdb
